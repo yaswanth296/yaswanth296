@@ -55,8 +55,8 @@
 <img src="assets/emerald-title-commits.svg" width="100%" alt="05 Activity">
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yaswanth296&show_icons=true&hide_rank=true&hide_border=true&border_radius=16&bg_color=080B09&title_color=00D084&text_color=A9C6B5&icon_color=59E6A7&custom_title=GitHub%20at%20a%20glance" width="49%" alt="GitHub statistics">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yaswanth296&layout=compact&hide_border=true&bg_color=080B09&title_color=00D084&text_color=A9C6B5" width="41%" alt="Most used public programming languages">
+  <img src="assets/emerald-github-overview.svg" width="54%" alt="GitHub overview: full-stack development and purposeful AI">
+  <img src="assets/emerald-tech-focus.svg" width="44%" alt="Technology focus: React, TypeScript, Node.js, .NET, Python, MongoDB, Firebase and AI APIs">
 </p>
 
 <p align="center">
@@ -64,7 +64,7 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/yaswanth296/yaswanth296/output/contribution-snake.svg" width="100%" alt="Emerald green GitHub contribution snake">
+  <img src="https://raw.githubusercontent.com/yaswanth296/yaswanth296/output/emerald-contribution-snake.svg" width="100%" alt="Emerald green GitHub contribution snake">
 </p>
 
 <img src="assets/emerald-title-community.svg" width="100%" alt="06 Community and leadership">

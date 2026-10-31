@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="560" height="190" viewBox="0 0 560 190" role="img" aria-labelledby="t d">
+<title id="t">GitHub overview</title><desc id="d">Yaswanth's GitHub profile: full-stack development, AI integrations, and practical product building.</desc>
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#10251b"/><stop offset="1" stop-color="#080b09"/></linearGradient></defs>
+<rect x="1" y="1" width="558" height="188" rx="18" fill="url(#g)" stroke="#00d084" stroke-opacity=".55"/>
+<rect x="24" y="25" width="5" height="140" rx="2.5" fill="#00d084"/>
+<text x="50" y="53" fill="#59e6a7" font-family="Arial,sans-serif" font-size="13" font-weight="700" letter-spacing="3">GITHUB OVERVIEW</text>
+<text x="50" y="91" fill="#effff6" font-family="Arial,sans-serif" font-size="25" font-weight="700">Build. Learn. Ship.</text>
+<text x="50" y="121" fill="#b8d3c5" font-family="Arial,sans-serif" font-size="15">Full-stack applications with purposeful AI.</text>
+<g font-family="Arial,sans-serif" font-size="12" font-weight="700"><rect x="50" y="139" width="119" height="28" rx="14" fill="#00d084"/><text x="109.5" y="157" text-anchor="middle" fill="#07110b">FULL-STACK</text><rect x="179" y="139" width="85" height="28" rx="14" fill="#163b2a" stroke="#36d99a"/><text x="221.5" y="157" text-anchor="middle" fill="#baffdf">AI</text><rect x="274" y="139" width="144" height="28" rx="14" fill="#163b2a" stroke="#36d99a"/><text x="346" y="157" text-anchor="middle" fill="#baffdf">PRODUCT BUILDER</text></g>
+<circle cx="488" cy="84" r="34" fill="none" stroke="#174c35" stroke-width="9"/><circle cx="488" cy="84" r="34" fill="none" stroke="#00d084" stroke-width="9" stroke-linecap="round" stroke-dasharray="150 64" transform="rotate(-90 488 84)"/><circle cx="488" cy="84" r="7" fill="#59e6a7"/>
+</svg>

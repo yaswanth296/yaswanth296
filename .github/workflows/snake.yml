@@ -1,9 +1,9 @@
-name: Generate contribution snake
+name: Generate emerald contribution snake
 
 on:
+  workflow_dispatch:
   schedule:
     - cron: "0 0 * * *"
-  workflow_dispatch:
 
 permissions:
   contents: write
@@ -12,13 +12,13 @@ jobs:
   generate:
     runs-on: ubuntu-latest
     steps:
-      - name: Generate snake
+      - name: Generate emerald contribution snake
         uses: Platane/snk@v3
         with:
-          github_user_name: ${{ github.repository_owner }}
+          github_user_name: yaswanth296
           outputs: |
-            dist/contribution-snake.svg?palette=github-green
-      - name: Publish to output branch
+            dist/emerald-contribution-snake.svg?palette=github-green
+      - name: Publish SVG to output branch
         uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
