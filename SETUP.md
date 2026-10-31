@@ -24,3 +24,8 @@ The README uses Skill Icons for the core development stack and Shields.io marks 
 ## Emerald theme refresh (v2)
 
 All custom SVG assets now use filenames beginning with `emerald-`. This intentionally changes image URLs to avoid stale cached burgundy artwork. Upload the complete `assets/` folder and the matching README together.
+
+
+## Contribution graph color update (v3)
+
+The contribution snake now uses the `github-green` palette to make activity cells green instead of the default dark/purple palette. The streak card also has explicit bright emerald labels and white numbers for readable contrast. After pushing, run **Actions → Generate contribution snake → Run workflow** once to regenerate the SVG on the `output` branch.

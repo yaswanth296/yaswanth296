@@ -60,11 +60,11 @@
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=yaswanth296&hide_border=true&background=080B09&ring=00D084&fire=59E6A7&currStreakLabel=B8F5D7&sideLabels=A9C6B5&dates=A9C6B5" width="75%" alt="GitHub contribution streak">
+  <img src="https://streak-stats.demolab.com?user=yaswanth296&hide_border=true&background=080B09&ring=00D084&fire=59E6A7&currStreakLabel=00D084&currStreakNum=EFFFF6&sideLabels=59E6A7&sideNums=EFFFF6&dates=A9C6B5&stroke=00D084" width="75%" alt="GitHub contribution streak">
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/yaswanth296/yaswanth296/output/contribution-snake.svg" width="100%" alt="GitHub contribution snake">
+  <img src="https://raw.githubusercontent.com/yaswanth296/yaswanth296/output/contribution-snake.svg" width="100%" alt="Emerald green GitHub contribution snake">
 </p>
 
 <img src="assets/emerald-title-community.svg" width="100%" alt="06 Community and leadership">
