@@ -1,9 +1,19 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="310" viewBox="0 0 1200 310">
-<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#190B12"/><stop offset="1" stop-color="#351326"/></linearGradient></defs>
-<rect width="1200" height="310" rx="22" fill="url(#bg)" stroke="#54233B"/>
-<circle cx="1070" cy="80" r="150" fill="#701A3D" opacity=".16"/>
-<circle cx="1070" cy="80" r="95" fill="none" stroke="#E5B5C7" stroke-opacity=".25" stroke-width="2"/>
-<text x="48" y="58" fill="#E5B5C7" font-family="Arial,sans-serif" font-size="16" letter-spacing="4">CURRENT ENGINEERING INTERESTS</text>
-<text x="48" y="105" fill="#F8F0F3" font-family="Arial,sans-serif" font-size="34" font-weight="700">From idea to working software.</text>
-<text x="48" y="150" fill="#F8F0F3" font-family="Arial,sans-serif" font-size="22" font-weight="700">Full-stack applications  •  API design  •  Backend engineering</text><text x="48" y="192" fill="#B6A3AC" font-family="Arial,sans-serif" font-size="18" font-weight="400">AI-powered workflows  •  Automation  •  SaaS products</text><text x="48" y="234" fill="#B6A3AC" font-family="Arial,sans-serif" font-size="18" font-weight="400">System design  •  Cloud platforms  •  Developer tooling</text>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 390" width="1200" height="390" role="img" aria-labelledby="t d">
+<title id="t">Engineering mindset</title><desc id="d">Product thinking, full-stack execution, purposeful AI and continuous learning.</desc>
+<defs>
+ <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#190B12"/><stop offset="1" stop-color="#10070C"/></linearGradient>
+ <radialGradient id="glow"><stop stop-color="#701A3D" stop-opacity=".65"/><stop offset="1" stop-color="#451126" stop-opacity="0"/></radialGradient>
+ <linearGradient id="line"><stop stop-color="#C77B9B"/><stop offset=".55" stop-color="#701A3D"/><stop offset="1" stop-color="#701A3D" stop-opacity="0"/></linearGradient>
+</defs><rect width="1200" height="390" rx="22" fill="url(#bg)"/><rect x="35" y="28" width="535" height="148" rx="16" fill="#2A0E1B" stroke="#701A3D" stroke-opacity=".75"/>
+    <text x="60" y="64" fill="#C77B9B" font-family="Arial" font-size="14" letter-spacing="3">01</text>
+    <text x="60" y="100" fill="#F8F0F3" font-family="Arial" font-size="22" font-weight="700">PRODUCT THINKING</text>
+    <text x="60" y="133" fill="#B6A3AC" font-family="Arial" font-size="15">Start with the user problem, then shape the simplest useful solution.</text><rect x="605" y="28" width="535" height="148" rx="16" fill="#2A0E1B" stroke="#701A3D" stroke-opacity=".75"/>
+    <text x="630" y="64" fill="#C77B9B" font-family="Arial" font-size="14" letter-spacing="3">02</text>
+    <text x="630" y="100" fill="#F8F0F3" font-family="Arial" font-size="22" font-weight="700">FULL-STACK EXECUTION</text>
+    <text x="630" y="133" fill="#B6A3AC" font-family="Arial" font-size="15">Connect clean interfaces, reliable APIs, data and deployment workflows.</text><rect x="35" y="206" width="535" height="148" rx="16" fill="#2A0E1B" stroke="#701A3D" stroke-opacity=".75"/>
+    <text x="60" y="242" fill="#C77B9B" font-family="Arial" font-size="14" letter-spacing="3">03</text>
+    <text x="60" y="278" fill="#F8F0F3" font-family="Arial" font-size="22" font-weight="700">AI WITH PURPOSE</text>
+    <text x="60" y="311" fill="#B6A3AC" font-family="Arial" font-size="15">Use AI and automation where they reduce friction and create real value.</text><rect x="605" y="206" width="535" height="148" rx="16" fill="#2A0E1B" stroke="#701A3D" stroke-opacity=".75"/>
+    <text x="630" y="242" fill="#C77B9B" font-family="Arial" font-size="14" letter-spacing="3">04</text>
+    <text x="630" y="278" fill="#F8F0F3" font-family="Arial" font-size="22" font-weight="700">CONTINUOUS LEARNING</text>
+    <text x="630" y="311" fill="#B6A3AC" font-family="Arial" font-size="15">Experiment, measure, improve and keep the engineering fundamentals strong.</text></svg>

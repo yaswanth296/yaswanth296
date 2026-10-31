@@ -1,13 +1,17 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360">
-<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#10070C"/><stop offset=".52" stop-color="#190B12"/><stop offset="1" stop-color="#4A1530"/></linearGradient><linearGradient id="orb"><stop stop-color="#701A3D"/><stop offset="1" stop-color="#D58BA8"/></linearGradient></defs>
-<rect width="1200" height="360" rx="24" fill="url(#bg)"/>
-<circle cx="1000" cy="170" r="210" fill="url(#orb)" opacity=".18"/>
-<circle cx="1000" cy="170" r="150" fill="none" stroke="#E5B5C7" stroke-opacity=".35" stroke-width="2"/>
-<circle cx="1000" cy="170" r="110" fill="none" stroke="#E5B5C7" stroke-opacity=".2" stroke-width="1"/>
-<path d="M760 300 Q900 120 1080 60 T1260 130" fill="none" stroke="#E5B5C7" stroke-opacity=".35" stroke-width="2"/>
-<text x="64" y="88" fill="#E5B5C7" font-family="Arial,sans-serif" font-size="18" letter-spacing="6">FULL-STACK DEVELOPER  /  AI DEVELOPER</text>
-<text x="60" y="166" fill="#F8F0F3" font-family="Arial,sans-serif" font-size="58" font-weight="700">YASWANTH KISHORE</text>
-<text x="64" y="218" fill="#D9C5CE" font-family="Arial,sans-serif" font-size="24">Engineering useful products. Exploring intelligent systems.</text>
-<rect x="64" y="258" width="230" height="42" rx="21" fill="#701A3D"/>
-<text x="179" y="285" fill="#F8F0F3" font-family="Arial,sans-serif" font-size="16" text-anchor="middle">BUILD • LEARN • SHIP</text>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 440" width="1200" height="440" role="img" aria-labelledby="t d">
+<title id="t">Yaswanth Kishore | Full-Stack Developer and AI Developer</title><desc id="d">Building digital products, intelligent workflows and useful software.</desc>
+<defs>
+ <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#190B12"/><stop offset="1" stop-color="#10070C"/></linearGradient>
+ <radialGradient id="glow"><stop stop-color="#701A3D" stop-opacity=".65"/><stop offset="1" stop-color="#451126" stop-opacity="0"/></radialGradient>
+ <linearGradient id="line"><stop stop-color="#C77B9B"/><stop offset=".55" stop-color="#701A3D"/><stop offset="1" stop-color="#701A3D" stop-opacity="0"/></linearGradient>
+</defs><rect width="1200" height="440" rx="22" fill="url(#bg)"/>
+<circle cx="1000" cy="170" r="260" fill="url(#glow)"/>
+<path d="M0 390 C240 300 360 470 620 360 S1000 280 1200 350" fill="none" stroke="#701A3D" stroke-width="2" opacity=".65"/>
+<text x="62" y="86" fill="#E5B5C7" font-family="Arial" font-size="17" letter-spacing="5">DEVELOPER · BUILDER · LEARNER</text>
+<text x="62" y="174" fill="#F8F0F3" font-family="Arial" font-size="58" font-weight="700">YASWANTH</text>
+<text x="62" y="235" fill="#F8F0F3" font-family="Arial" font-size="58" font-weight="700">KISHORE</text>
+<text x="65" y="290" fill="#C77B9B" font-family="Arial" font-size="24">Full-Stack Developer  /  AI Developer</text>
+<text x="65" y="340" fill="#B6A3AC" font-family="Arial" font-size="18">Engineering practical products. Automating the repetitive.</text>
+<text x="65" y="372" fill="#B6A3AC" font-family="Arial" font-size="18">Exploring what thoughtful software can make possible.</text>
+<g transform="translate(910 115)"><circle cx="95" cy="95" r="105" fill="none" stroke="#C77B9B" stroke-opacity=".55" stroke-width="2"/><circle cx="95" cy="95" r="82" fill="none" stroke="#E5B5C7" stroke-opacity=".35" stroke-dasharray="5 9" stroke-width="2"/><text x="95" y="89" fill="#E5B5C7" font-family="Arial" font-size="19" text-anchor="middle">BUILD</text><text x="95" y="119" fill="#F8F0F3" font-family="Arial" font-size="17" text-anchor="middle">BETTER</text></g>
 </svg>
