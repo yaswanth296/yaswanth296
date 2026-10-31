@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="150" viewBox="0 0 1200 150">
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#701A3D"/><stop offset="1" stop-color="#351326"/></linearGradient></defs>
+<rect width="1200" height="150" rx="22" fill="#190B12"/>
+<rect x="0" y="0" width="12" height="150" rx="6" fill="#701A3D"/>
+<text x="42" y="54" fill="#E5B5C7" font-family="Arial,sans-serif" font-size="19" letter-spacing="4">06</text>
+<text x="42" y="101" fill="#F8F0F3" font-family="Arial,sans-serif" font-size="42" font-weight="700">CONNECT</text>
+<text x="1160" y="96" fill="#B6A3AC" font-family="Arial,sans-serif" font-size="18" text-anchor="end">Open to learning and collaboration</text>
+</svg>

@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="310" viewBox="0 0 1200 310">
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#190B12"/><stop offset="1" stop-color="#351326"/></linearGradient></defs>
+<rect width="1200" height="310" rx="22" fill="url(#bg)" stroke="#54233B"/>
+<circle cx="1070" cy="80" r="150" fill="#701A3D" opacity=".16"/>
+<circle cx="1070" cy="80" r="95" fill="none" stroke="#E5B5C7" stroke-opacity=".25" stroke-width="2"/>
+<text x="48" y="58" fill="#E5B5C7" font-family="Arial,sans-serif" font-size="16" letter-spacing="4">YASWANTH KISHORE</text>
+<text x="48" y="105" fill="#F8F0F3" font-family="Arial,sans-serif" font-size="34" font-weight="700">BUILD. LEARN. SHIP.</text>
+<text x="48" y="150" fill="#F8F0F3" font-family="Arial,sans-serif" font-size="22" font-weight="700">Turning ideas into useful digital experiences.</text><text x="48" y="192" fill="#B6A3AC" font-family="Arial,sans-serif" font-size="18" font-weight="400">Full-Stack Development  /  AI Engineering  /  Product Building</text>
+</svg>
