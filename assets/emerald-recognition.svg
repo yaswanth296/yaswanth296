@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 390" width="1200" height="390" role="img" aria-labelledby="t d">
+<title id="t">Engineering mindset</title><desc id="d">Product thinking, full-stack execution, purposeful AI and continuous learning.</desc>
+<defs>
+ <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#080B09"/><stop offset="1" stop-color="#0B110D"/></linearGradient>
+ <radialGradient id="glow"><stop stop-color="#00D084" stop-opacity=".65"/><stop offset="1" stop-color="#14251C" stop-opacity="0"/></radialGradient>
+ <linearGradient id="line"><stop stop-color="#59E6A7"/><stop offset=".55" stop-color="#00D084"/><stop offset="1" stop-color="#00D084" stop-opacity="0"/></linearGradient>
+</defs><rect width="1200" height="390" rx="22" fill="url(#bg)"/><rect x="35" y="28" width="535" height="148" rx="16" fill="#102019" stroke="#00D084" stroke-opacity=".75"/>
+    <text x="60" y="64" fill="#59E6A7" font-family="Arial" font-size="14" letter-spacing="3">01</text>
+    <text x="60" y="100" fill="#EFFFF6" font-family="Arial" font-size="22" font-weight="700">PRODUCT THINKING</text>
+    <text x="60" y="133" fill="#A9C6B5" font-family="Arial" font-size="15">Start with the user problem, then shape the simplest useful solution.</text><rect x="605" y="28" width="535" height="148" rx="16" fill="#102019" stroke="#00D084" stroke-opacity=".75"/>
+    <text x="630" y="64" fill="#59E6A7" font-family="Arial" font-size="14" letter-spacing="3">02</text>
+    <text x="630" y="100" fill="#EFFFF6" font-family="Arial" font-size="22" font-weight="700">FULL-STACK EXECUTION</text>
+    <text x="630" y="133" fill="#A9C6B5" font-family="Arial" font-size="15">Connect clean interfaces, reliable APIs, data and deployment workflows.</text><rect x="35" y="206" width="535" height="148" rx="16" fill="#102019" stroke="#00D084" stroke-opacity=".75"/>
+    <text x="60" y="242" fill="#59E6A7" font-family="Arial" font-size="14" letter-spacing="3">03</text>
+    <text x="60" y="278" fill="#EFFFF6" font-family="Arial" font-size="22" font-weight="700">AI WITH PURPOSE</text>
+    <text x="60" y="311" fill="#A9C6B5" font-family="Arial" font-size="15">Use AI and automation where they reduce friction and create real value.</text><rect x="605" y="206" width="535" height="148" rx="16" fill="#102019" stroke="#00D084" stroke-opacity=".75"/>
+    <text x="630" y="242" fill="#59E6A7" font-family="Arial" font-size="14" letter-spacing="3">04</text>
+    <text x="630" y="278" fill="#EFFFF6" font-family="Arial" font-size="22" font-weight="700">CONTINUOUS LEARNING</text>
+    <text x="630" y="311" fill="#A9C6B5" font-family="Arial" font-size="15">Experiment, measure, improve and keep the engineering fundamentals strong.</text></svg>

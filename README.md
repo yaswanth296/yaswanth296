@@ -1,5 +1,5 @@
 <a href="https://github.com/yaswanth296">
-  <img src="assets/hero.svg" width="100%" alt="Yaswanth Kishore | Full-Stack Developer and AI Developer">
+  <img src="assets/emerald-hero.svg" width="100%" alt="Yaswanth Kishore | Full-Stack Developer and AI Developer">
 </a>
 
 <p align="center">
@@ -12,21 +12,21 @@
   <a href="https://github.com/yaswanth296"><img src="https://img.shields.io/badge/GitHub-yaswanth296-00D084?style=for-the-badge&labelColor=080B09&logo=github&logoColor=EFFFF6" alt="GitHub"></a>
 </p>
 
-<img src="assets/title-about.svg" width="100%" alt="01 About">
-<img src="assets/about-intro.svg" width="100%" alt="About Yaswanth Kishore">
+<img src="assets/emerald-title-about.svg" width="100%" alt="01 About">
+<img src="assets/emerald-about-intro.svg" width="100%" alt="About Yaswanth Kishore">
 
-<img src="assets/title-recognition.svg" width="100%" alt="02 Engineering mindset">
-<img src="assets/recognition.svg" width="100%" alt="Engineering mindset: product thinking, full-stack execution, purposeful AI and continuous learning">
+<img src="assets/emerald-title-recognition.svg" width="100%" alt="02 Engineering mindset">
+<img src="assets/emerald-recognition.svg" width="100%" alt="Engineering mindset: product thinking, full-stack execution, purposeful AI and continuous learning">
 
-<img src="assets/title-work.svg" width="100%" alt="03 Selected work">
+<img src="assets/emerald-title-work.svg" width="100%" alt="03 Selected work">
 
-<a href="https://shldrapp.in/"><img src="assets/project-shldr.svg" width="100%" alt="SHLDR healthcare technology platform"></a>
+<a href="https://shldrapp.in/"><img src="assets/emerald-project-shldr.svg" width="100%" alt="SHLDR healthcare technology platform"></a>
 
-<img src="assets/project-ai.svg" width="100%" alt="AI content generation and workflow automation">
+<img src="assets/emerald-project-ai.svg" width="100%" alt="AI content generation and workflow automation">
 
-<img src="assets/project-tracker.svg" width="100%" alt="Social Control Room and Team Tracker project work">
+<img src="assets/emerald-project-tracker.svg" width="100%" alt="Social Control Room and Team Tracker project work">
 
-<img src="assets/title-toolkit.svg" width="100%" alt="04 Toolkit">
+<img src="assets/emerald-title-toolkit.svg" width="100%" alt="04 Toolkit">
 
 <p align="center"><strong>LANGUAGES & FRONTEND</strong></p>
 <p align="center">
@@ -52,7 +52,7 @@
   <img src="https://img.shields.io/badge/Google%20Apps%20Script-00D084?style=flat-square&logo=googleappsscript&logoColor=080B09" alt="Google Apps Script">
 </p>
 
-<img src="assets/title-commits.svg" width="100%" alt="05 Activity">
+<img src="assets/emerald-title-commits.svg" width="100%" alt="05 Activity">
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=yaswanth296&show_icons=true&hide_rank=true&hide_border=true&border_radius=16&bg_color=080B09&title_color=00D084&text_color=A9C6B5&icon_color=59E6A7&custom_title=GitHub%20at%20a%20glance" width="49%" alt="GitHub statistics">
@@ -67,10 +67,10 @@
   <img src="https://raw.githubusercontent.com/yaswanth296/yaswanth296/output/contribution-snake.svg" width="100%" alt="GitHub contribution snake">
 </p>
 
-<img src="assets/title-community.svg" width="100%" alt="06 Community and leadership">
-<img src="assets/community.svg" width="100%" alt="Community volunteering recognition">
+<img src="assets/emerald-title-community.svg" width="100%" alt="06 Community and leadership">
+<img src="assets/emerald-community.svg" width="100%" alt="Community volunteering recognition">
 
-<img src="assets/title-connect.svg" width="100%" alt="07 Connect">
+<img src="assets/emerald-title-connect.svg" width="100%" alt="07 Connect">
 
 <p align="center">
   <a href="https://www.linkedin.com/in/yaswanth296/"><img src="https://img.shields.io/badge/LinkedIn-Let's%20connect-00D084?style=for-the-badge&labelColor=080B09&logo=linkedin&logoColor=EFFFF6" alt="Connect on LinkedIn"></a>
@@ -79,5 +79,5 @@
 </p>
 
 <a href="https://github.com/yaswanth296">
-  <img src="assets/footer-signature.svg" width="100%" alt="Yaswanth Kishore | Build. Learn. Ship.">
+  <img src="assets/emerald-footer-signature.svg" width="100%" alt="Yaswanth Kishore | Build. Learn. Ship.">
 </a>

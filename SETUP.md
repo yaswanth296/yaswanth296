@@ -19,3 +19,8 @@ The README uses Skill Icons for the core development stack and Shields.io marks 
 - The profile photo is stored at `assets/profile.png`.
 - Update the technology list if your active stack changes.
 - GitHub statistics and contribution images are provided by external services and may occasionally be rate-limited or temporarily unavailable.
+
+
+## Emerald theme refresh (v2)
+
+All custom SVG assets now use filenames beginning with `emerald-`. This intentionally changes image URLs to avoid stale cached burgundy artwork. Upload the complete `assets/` folder and the matching README together.
